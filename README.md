@@ -10,4 +10,4 @@ A conversational voice assistant built in Python with features like web search, 
 
 ## How to Run
 1. Install dependencies: `pip install -r requirements.txt`
-2. Run: `python assistant.py`
+2. Run: `voice_assistant.py`
